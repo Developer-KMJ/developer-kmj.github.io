@@ -1,0 +1,81 @@
+Letter	Name	Lexical Set	IPA Traditional	IPA Modern	Frequency (1=highest)	Letter Type
+
+Lesson 1
+𐑦	in 𐑦𐑯	KIT / happY	ɪ/~/i ɪn	ɪ́/~/ɪj ɪ́n	1	Short
+𐑯	now 𐑯𐑬		n naʊ	n náw	2	Short
+𐑑	tan 𐑑𐑨𐑯		t tæn	t tán	3	Tall
+𐑩	ago 𐑩𐑜𐑴	commA	ə əˈɡəʊ	ə əgə́w	4	Short
+𐑕	see 𐑕𐑰		s siː	s sɪ́j	5	Tall
+
+Lesson 2 (----- Pairs)
+(*1) 𐑰	eve 𐑰𐑝	FLEECE	iː iːv	ɪ́j ɪ́jv	20	Short
+(*1) 𐑥	me 𐑥𐑰		m miː	m mɪ́j	11	Short
+(*1) 𐑛	done 𐑛𐑳𐑯		d dʌn	d də́n	7	Deep
+(*1) 𐑳	up 𐑳𐑐	STRUT	ʌ ʌp	ə́ ə́p	26	Short
+(*1)  𐑟	zoo 𐑟𐑵		z zuː	z zʉ́w	10	Deep
+
+
+Lesson 3
+𐑤	lamb 𐑤𐑨𐑥		l læm	l lám	6	Short
+𐑞	thou 𐑞𐑬		ð ðaʊ	ð ðáw	8	Deep
+𐑒	key 𐑒𐑰		k kiː	k kɪ́j	9	Tall
+𐑧	edge 𐑧𐑡	DRESS	e eʤ	ɛ́ ɛ́ʤ	13	Short
+𐑐	pin 𐑐𐑦𐑯		p pɪn	p pɪ́n	14	Tall
+
+Lesson 4 (--- Pairs)
+(*2) 𐑮	roe 𐑮𐑴		r rəʊ	r rə́w	12	Short
+(*2) 𐑔	thorn 𐑔𐑹𐑯		θ θɔː(r)n	θ θóː(r)n	41	Tall
+(*2) 𐑜	gill 𐑜𐑦𐑤		g ɡɪl	g gɪ́l	30	Deep
+(*2) 𐑱	aim 𐑱𐑥	FACE	eɪ eɪm	ɛ́j ɛ́jm	23	Short
+(*2) 𐑚	bell 𐑚𐑧𐑤		b bel	b bɛ́l	19	Deep
+
+
+Lesson 5 (Single Words)
+the 𐑞, 
+of 𐑝, 
+and 𐑯, 
+to 𐑑, 
+for 𐑓.
+
+Lesson 6
+𐑨	ash 𐑨𐑖	TRAP	æ æʃ	á áʃ	15	Short
+𐑝	vie 𐑝𐑲		v vaɪ	v vɑ́j	16	Deep
+𐑢	way 𐑢𐑱		w weɪ	w wɛ́j	17	Deep
+𐑪	on 𐑪𐑯	LOT	ɒ ɒn	ɔ́ ɔ́n	21	Short
+𐑣	who 𐑣𐑵		h huː	h hʉ́w	25	Deep
+
+Lesson 7 (----Pairs)
+(*3) 𐑲	eyes 𐑲𐑟	PRICE	aɪ aɪz	ɑ́j ɑ́jz	24	Short
+(*3) 𐑓	fay 𐑓𐑱		f feɪ	f fɛ́j	22	Tall
+(*3) 𐑘	yen 𐑘𐑧𐑯		j jen	j jɛ́n	43	Tall
+(*3) 𐑴	oath 𐑴𐑔	GOAT	əʊ əʊθ	ə́w ə́wθ	27	Short
+(*3) 𐑙	song 𐑕𐑪𐑙		ŋ sɒŋ	ŋ sɔ́ŋ	29	Tall
+
+Lesson 8
+𐑖	shy 𐑖𐑲		ʃ ʃaɪ	ʃ ʃɑ́j	28	Tall
+𐑵	ooze 𐑵𐑟	GOOSE	u(ː) uːz	ʉ́w ʉ́wz	33	Short
+𐑗	cha 𐑗𐑭		ʧ ʧɑː	ʧ ʧɑ́ː	35	Tall
+𐑬	ounce 𐑬𐑯𐑕	MOUTH	aʊ aʊns	áw áwns	37	Short
+𐑷	ought 𐑷𐑑	THOUGHT	ɔː ɔːt	óː óːt	40	Short
+
+Lesson 9 (--- Pairs)
+(*4) 𐑠	zho 𐑠𐑴		ʒ ʒəʊ	ʧ ʒə́w	48	Deep
+(*4) 𐑫	oomph 𐑫𐑥𐑓	FOOT	ʊ ʊmf	ʉ́/~/ɵ ʉ́mf	39	Short
+(*4) 𐑡	joy 𐑡𐑶		ʤ ʤɔɪ	ʤ ʤój	36	Deep
+(*4) 𐑶	oil 𐑶𐑤	CHOICE	ɔɪ ɔɪl	ój ójl	47	Short
+(*4) 𐑭	alms 𐑭𐑥𐑟	SPA (PALM)	ɑː ɑːmz	ɑ́ː ɑ́ːmz	44	Short
+
+Lesson 10 (Compounds)
+𐑼	array 𐑼𐑱	lettER	ə(r) əˈreɪ	ə(r) ərɛ́j	18	Compound
+𐑻	early 𐑻𐑤𐑦	NURSE	ɜː(r) ɜː(r)li	ə́ː(r) ə́ː(r)lɪj	31	Compound
+𐑹	aura 𐑹𐑩	NORTH / FORCE	ɔː(r) ɔːrə	óː(r) óːrə	32	Compound
+𐑿	yule 𐑿𐑤	MUTE	ju(ː) juːl	jʉ́w jʉ́wl	34	Compound
+𐑸	aria 𐑸𐑾	START	ɑː(r) ɑːrɪə	ɑ́ː(r) ɑ́ːrɪjə	38	Compound
+𐑺	aero 𐑺𐑴	SQUARE	ɛə(r) eərəʊ	ɛ́ː(r) ɛ́ːrəw	42	Compound
+𐑽	eerie 𐑽𐑦	NEAR	ɪə(r) ɪəri	ɪ́ː(r) ɪ́ːrɪj	45	Compound
+𐑾	ian 𐑾𐑯	LEAH (NEAR prime)	ɪə ɪən	ɪjə ɪjən	46	Compound
+
+
+
+
+
